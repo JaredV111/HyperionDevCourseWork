@@ -1,0 +1,11 @@
+1.)Some ambiguities would be that the user must input a personal identifier.It isn't clear what they would have to put in as a personal identifier.
+ In the description they state twice that the user must input a destination.
+
+2.)Data retention,the capacity to hold a lot of information at once with all the users using the program.The quality shoudl be good so it is easy to access and use.
+
+3.1) An old lady who isnt able to read well.She tries to check her balance at an atm.
+3.2) A disabled man who is unable to see.
+3.3)A 20 year old man who is in a rush to work.
+
+4.)Would try to come with a compromise so the code could benifit both parties.
+	

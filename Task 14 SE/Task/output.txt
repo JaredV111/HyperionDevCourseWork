@@ -1,0 +1,6 @@
+The min of [1, 2, 3, 5, 6] is 1.0.
+The max of [1, 2, 3, 5, 6] is 6.0.
+The avg of [1, 2, 3, 5, 6] is 3.4.
+The 90th percentile of [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] is 9.0.
+The sum of [1, 2, 3, 5, 6] is 17.0.
+The 70th percentile of [1, 2, 3] is 2.0.

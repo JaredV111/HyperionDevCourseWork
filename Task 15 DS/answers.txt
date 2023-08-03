@@ -1,0 +1,50 @@
+1.)Files or databases from the system that is being replaced
+   Manual records
+   Files or databases from other systems within the organisation
+   User feedback from when the system is operating normally
+
+2.)Users only have to know how to work the program whereas the system operators have to know how the code works.
+
+3.)A Direct Deployment is an instant deployment to instances that are externally accessible. 
+   Advantages:
+
+   If the system is not critical, this can be a good method for implementation
+   Disadvantages:
+
+   If you are not sure the system will work, this method of implementation may not be a good idea
+   Parallel
+   When the new system is used at the same time as the old system the two systems are said to be running in parallel.
+
+   Advantages:
+
+   Users can can compare the output of the old system with the output of the new system, to ensure correctness
+   There is little risk of data loss because the known-good system is running
+   Disadvantages:
+
+   Users must take more time to enter data into two different systems
+   Data could be different in two different systems if there is intensive data entry
+
+
+   Phased
+   When small parts of the new system gradually replace small parts of the old system, the implementation method is said to be phased.
+
+   Advantages:
+
+   Training can be completed in small parts
+   A failure of the new system has minimal impact because it is only one small part
+   Issues around scale can be addressed without major impact.
+   Disadvantages:
+
+   This implementation method takes more time to get the new system fully online than other methods.
+   There is a possibility of data loss if part of the new system fails.
+4.) Adaptive, corrective, perfective and preventive. 
+    Adaptive:Adding new voice-based search features in the operational system.
+	    Adding new user interface to operational system.
+    Perfective Maintenance: Coversation of command line system to graphical user interface.
+			    Upgrading wireless network.
+   Preventive maintenance:Installing new antivirus software
+			  Implement regular defragmentation process.
+   Corrective Maintenance:Suppose a system is generating errors during authenticating login of emplyee whose already are already being verified such erros are corrected during corrected 
+			  during corrective maintenance.
+			  An error in a program that result in wrong output is debugged and corrected under corrective maintenance.
+5.)Having the continuous process in place to refactor the code as it needs maintenance.

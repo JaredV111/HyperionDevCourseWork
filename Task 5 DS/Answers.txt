@@ -1,0 +1,7 @@
+1.) Normalization is a process of evaluationg and correcting a table structure to minimise data redundancies and therefore reduce the likelihood 
+    of data anomalies.
+2.) To make a table in NF1 you need to eliminate repeating groups by eliminating the nulls by making sure that each repeating group attribute contains 
+    an appropriate data value.This converts the table to NF1.
+3.) A relation is in second normal form if it is in 1NF and every non key attribute is fully functionally dependent on the primary key.
+
+4.)It is in the Second Normal form and, it doesn't have Transitive Dependency.

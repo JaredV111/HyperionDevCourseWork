@@ -1,0 +1,36 @@
+Data -
+	facts and statistics collected together for reference or analysis.
+
+Field - 
+	In computer science, data that has several parts, known as a record, can be divided into fields. Relational databases arrange data as sets of database records,so called rows. Each record consists of several fields; the fields of all records form the columns. Examples of fields: name, gender, hair colour.
+
+	In object-oriented programming, field (also called data member or member variable) is the data encapsulated within a class or object.
+	In the case of a regular field (also called instance variable), for each instance of the object there is an instance variable: for example, an Employee class has a Name field and there is one distinct name per employee.
+	A static field (also called class variable) is one variable, which is shared by all instances.
+	Fields are abstracted by properties, which allow them to be read and written as if they were fields, but these can be translated to getter and setter method calls.
+Field -
+	In relational databases, a record is a group of related data held within the same structure. More specifically, a record is a grouping of fields within a table that reference one particular object.
+
+File - 
+	 A file is a collection of records. 
+
+2.)DBMS is a Database management system which is the software that allows users to define,create and maintain a database and provides controlled access to the data.
+A DBMS is basically a collectionof programs that enable users to store,modify,and extract information from a database as per the requirements.
+Some Advantages of DBMS is :
+		 	    Controlled Redundency - In file system, each application has its own private files, which cannot be shared between multiple applications.this can often lead to considerable redundancy in the stored data, which results in wastage of storage space.
+			    By having centralized database most of this can be avoided. 
+			    
+			    Integrity can be enforced - Integrity of data means that data in database is always accurate, such that incorrect information cannot be stored in database. 
+			    In order to maintain the integrity of data, some integrity constraints are enforced on the database.
+			    A DBMS should provide capabilities for defining and enforcing the constraints.
+				
+			    Data can be shared - the data about Name, Class, Father name etc. of General Office is shared by multiple applications in centralized DBMS as compared to file system so now applications can be developed to operate against the same stored data.	
+			    The applications may be developed without having to create any new stored files.
+
+3.)The difference between data and information is that data is raw,unorganized facts that need to be processed and information is when data is processed,organized, structured or presented in a given context so as to make it useful,it is called information.
+
+4.)A set of data that describes other data.
+
+5.1) This file has 4 records.
+
+5.2) This has 5 fields per record.

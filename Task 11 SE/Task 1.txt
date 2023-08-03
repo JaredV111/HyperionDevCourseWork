@@ -1,0 +1,12 @@
+1.a)Incremental Development because it will yield the best results because the porduct is being constantly being tested while the the waterfall method could be shipped out as a broken code   
+    and will be inefficient to ship out a product and then only find out the product is defective when the cra is either stolen or when the client checks if the product is defective.
+
+b.) Incremental Development because its easier to create the product right with the validation from the client.  
+
+c.)Re-use Oriented Software Engineering because there is an existing system which would easier to update the old software than build a new product from scratch.
+
+2.)It is the most effective method beacuse the best possible product according to the client will be produced but it is less appropriate for real-time systems engineering
+   because the client could come up with new ideas for the project so the specifications could become foggy where there isnt a specific amount of work to be done and more work gets added due to 
+   what the client wants.
+
+3.)It's requirement specifications are to know what parts of the previous code should be used and the requirement modifications are for what needs to be changed due to the current client's needs.

@@ -1,0 +1,14 @@
+1.) It's not necessary beacuse it is not always going to be possible to deliver a code that is 100% free of defects all the time.
+
+2.)The main goal of the software at hand is to check whether it meets the requirements of the client or not.
+Testing cannot demonstrate the faults other than specified in every circumstance.
+
+3.)Some pro's would be they are more familiar with the code and then check it faster.
+Some Cons would be that they overlook the errors because they have been working with the piece of code for so long.
+The dev team might not work as hard to debug because they think their work is fine.
+Developers could also not check all the possibilities like a team which there job is to check code.
+
+4.)Regeression Testing is a type of softeware testing to confirm that a recent type of program or code change has adversely affected existing features.
+The use of automated test and testing frameworks makes it way easier to test because everything is automated and the developer does not need to do it by hand and backtracking.
+
+5.)I think it is wrong to use all the budget and then abandon the testing team is wrong but that is the structure of the industry.

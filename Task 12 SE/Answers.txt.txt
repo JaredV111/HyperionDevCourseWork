@@ -1,0 +1,9 @@
+1.)Sometimes if the contract negotiations are not set in place the client could be getting free labor or the business could not be conpensated fairly.
+   Respoding to change could be hard because the client could not be paying for the changes when needed too. 
+   Working the software over comprehensive documentation could be a problem for the next developer to read your code because there isnt much help to read all the code you wrote.
+
+2.) Agility is the amount of speed is which something done.
+
+3.) I think requirements change so much due to the client not knowing what exactly they want or the restrictions on what the developers can do due to software or time or other ouside elements.
+
+4.)It can help the developer how much time is needed to complete the task. Also it could help the developer know whats possible for the task with the amount of time and within the developers knowledge.

@@ -1,0 +1,22 @@
+1.)A manufacturing process invovles configuring,setting up,and operating the machines invovled in the process.
+   Once the machines are operating correctly and manufacturing systems are calibrated, they can run repeatedly to achieve high quality products.
+   Process quality management and improvement can lead to a fewer defects in the software.however software development is a creative rather than a mechanical process,so the influence of 
+   the individual skills and experience is key.
+
+2.1)getters,setters and tostring
+2.2)IEEE Standards
+2.3)Its the specs
+
+
+
+3.)They can find several faults in one pass without being concerned about interference between program faults. 
+   They bring a number of people with different experience of different types of errors. Hence, the team approach offers greater coverage than any individual can bring. 
+   The types of errors that inspections are unlikely to find are specification errors or errors that are based on a misunderstanding of the application domain (unless there are domain experts in the team). 
+
+4.)Design metrics are inadequate because they assume that quality is only related to what can actually be measured.
+   Also, it is difficult to make direct measurements of many of the software quality attributes
+
+5.)The basic difficulty arises because the external attributes such as maintainability are not just dependent on a small number of internal product attributes. 
+While the complexity of a system influences its maintainability, other issues such as the use of variable names, the system documentation and, particularly,
+ the skills of the people doing the maintenance have such a large effect on the process that they may mask any maintainability differences arising from different levels of complexity. 
+This does not contradict experiments where a relationship between maintainability and complexity was discovered – however, we don’t have enough evidence at the moment to generalize this.

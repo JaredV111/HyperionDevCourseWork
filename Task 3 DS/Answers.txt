@@ -1,0 +1,33 @@
+1.)It is because the system architecture has a huge impact on the non-functional requirements and can also influence the functional an functional requirements as well.
+2.)Generally, the most non-functional requirements for design system architecture as follows:
+
+• Performance
+
+• Safety
+
+• Security
+
+• Availability
+
+• Maintainability
+
+While design an architecture, it may arise conflicts in security and availability requirement cases in above non-functional requirements.
+
+The reasons as follows:
+
+• The system architecture disturbs the robustness, maintainability and performance of a system. 
+
+• In Security requirement, the architecture must be used layered structure in a security requirement.
+
+• In availability requirement, the architecture must be considered to terminate components and so that it is probable to change and edit components without preventing the system.
+
+• The security and availability are critical requirements. 
+But the major architectural conflict occurred between replication and several copies in availability requirement and security requirement conflict occurred between specialization and minimal copies. 
+
+
+3.)Client-and Server architecture is the architecture pattern that is used for a platform such as iTunes.
+
+4.)When designing a system you would normally use several architectural patterns when designing the architecture of a large system because you may need different architectures for different components.
+ For example, a large system may be a distributed system and the overall architecture may reflect that but one component may be best implemented using a client server pattern and another component structured as a repository.
+ In designing a large system it is most useful to know how the components that make up the large system are going to communicate. 
+Once you know how the components are going to communicate it is easier to design the components themselves and properly structure the entire system to maximize the benefits of each decision and minimize the drawbacks.
