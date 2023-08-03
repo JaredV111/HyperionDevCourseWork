@@ -1,0 +1,27 @@
+Start: 
+
+Maximum number = 0 
+enter a postive number and if > 0 then it becomes the maximum number. 
+output = maximum number 
+Stop 
+
+Start: 
+maximum value = 0 
+enter a number of intergers 
+the maximum value becomes the added number of integers 
+The maximum value divided by the number of integers = the new maximum value 
+Output = maximum value 
+
+Start: 	
+Make a list of groceries 
+Put in alphabetical order 
+Then print out list 
+While list is not empty 
+When items is taken out 
+Reorder the list alphabetically 
+Then print list 
+ 
+
+
+		 
+
